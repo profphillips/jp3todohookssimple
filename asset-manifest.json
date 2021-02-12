@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/jp3todohookssimple/static/css/main.ec43753d.chunk.css",
-    "main.js": "/jp3todohookssimple/static/js/main.d3ccfa23.chunk.js",
-    "main.js.map": "/jp3todohookssimple/static/js/main.d3ccfa23.chunk.js.map",
-    "runtime-main.js": "/jp3todohookssimple/static/js/runtime-main.b9a04f5b.js",
-    "runtime-main.js.map": "/jp3todohookssimple/static/js/runtime-main.b9a04f5b.js.map",
-    "static/js/2.32c02b7b.chunk.js": "/jp3todohookssimple/static/js/2.32c02b7b.chunk.js",
-    "static/js/2.32c02b7b.chunk.js.map": "/jp3todohookssimple/static/js/2.32c02b7b.chunk.js.map",
+    "main.js": "/jp3todohookssimple/static/js/main.5e413655.chunk.js",
+    "main.js.map": "/jp3todohookssimple/static/js/main.5e413655.chunk.js.map",
+    "runtime-main.js": "/jp3todohookssimple/static/js/runtime-main.0df93518.js",
+    "runtime-main.js.map": "/jp3todohookssimple/static/js/runtime-main.0df93518.js.map",
+    "static/js/2.670b8fd0.chunk.js": "/jp3todohookssimple/static/js/2.670b8fd0.chunk.js",
+    "static/js/2.670b8fd0.chunk.js.map": "/jp3todohookssimple/static/js/2.670b8fd0.chunk.js.map",
     "index.html": "/jp3todohookssimple/index.html",
     "static/css/main.ec43753d.chunk.css.map": "/jp3todohookssimple/static/css/main.ec43753d.chunk.css.map",
-    "static/js/2.32c02b7b.chunk.js.LICENSE.txt": "/jp3todohookssimple/static/js/2.32c02b7b.chunk.js.LICENSE.txt"
+    "static/js/2.670b8fd0.chunk.js.LICENSE.txt": "/jp3todohookssimple/static/js/2.670b8fd0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9a04f5b.js",
-    "static/js/2.32c02b7b.chunk.js",
+    "static/js/runtime-main.0df93518.js",
+    "static/js/2.670b8fd0.chunk.js",
     "static/css/main.ec43753d.chunk.css",
-    "static/js/main.d3ccfa23.chunk.js"
+    "static/js/main.5e413655.chunk.js"
   ]
 }
