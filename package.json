@@ -1,5 +1,5 @@
 {
-  "name": "jp2todohookssimple",
+  "name": "jp3todohookssimple",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://profphillips.github.io/jp2todohookssimple"
+  "homepage": "https://profphillips.github.io/jp3todohookssimple"
 }
