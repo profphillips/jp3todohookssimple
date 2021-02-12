@@ -1,0 +1,57 @@
+/* Style.css by JP */
+
+.Wrapper {
+  margin: auto;
+  margin-top: 5px;
+  max-width: 800px;
+  padding: 15px;
+  background: #fdf8f5;
+  color: #222;
+}
+
+.Wrapper h1 {
+  color: #265;
+}
+
+.Wrapper h2 {
+  /* color: #266150; */
+  color: #205;
+}
+
+.TodoForm input {
+  width: 90%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.TodoList ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+  /* border-style: dotted; */
+}
+
+.TodoList li {
+  display: grid; /* puts everything in a nice row */
+  border-bottom-style: groove;
+  /* margin-top: 5px; */
+  padding: 7px 5px 2px 5px;
+}
+
+.TodoTask {
+  margin-left: 5px; /*puts a little space to the left of the text */
+}
+
+/* Place a button group on the right side of each todo task */
+.TodoButtonGroup {
+  margin-left: auto;
+  float: right;
+}
+
+/* Adds a little space above and to the left of each fixed size button */
+.TodoButton {
+  margin-top: 3px;
+  margin-left: 10px;
+  width: 60px;
+  height: 25px;
+}
